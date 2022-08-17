@@ -1,0 +1,16 @@
+E:\Exsumple\Ex001hello_console\bin\Debug\net6.0\Ex001hello_console.exe
+E:\Exsumple\Ex001hello_console\bin\Debug\net6.0\Ex001hello_console.deps.json
+E:\Exsumple\Ex001hello_console\bin\Debug\net6.0\Ex001hello_console.runtimeconfig.json
+E:\Exsumple\Ex001hello_console\bin\Debug\net6.0\Ex001hello_console.dll
+E:\Exsumple\Ex001hello_console\bin\Debug\net6.0\ref\Ex001hello_console.dll
+E:\Exsumple\Ex001hello_console\bin\Debug\net6.0\Ex001hello_console.pdb
+E:\Exsumple\Ex001hello_console\obj\Debug\net6.0\Ex001hello_console.GlobalUsings.g.cs
+E:\Exsumple\Ex001hello_console\obj\Debug\net6.0\Ex001hello_console.csproj.AssemblyReference.cache
+E:\Exsumple\Ex001hello_console\obj\Debug\net6.0\Ex001hello_console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exsumple\Ex001hello_console\obj\Debug\net6.0\Ex001hello_console.AssemblyInfoInputs.cache
+E:\Exsumple\Ex001hello_console\obj\Debug\net6.0\Ex001hello_console.AssemblyInfo.cs
+E:\Exsumple\Ex001hello_console\obj\Debug\net6.0\Ex001hello_console.csproj.CoreCompileInputs.cache
+E:\Exsumple\Ex001hello_console\obj\Debug\net6.0\Ex001hello_console.dll
+E:\Exsumple\Ex001hello_console\obj\Debug\net6.0\ref\Ex001hello_console.dll
+E:\Exsumple\Ex001hello_console\obj\Debug\net6.0\Ex001hello_console.pdb
+E:\Exsumple\Ex001hello_console\obj\Debug\net6.0\Ex001hello_console.genruntimeconfig.cache
